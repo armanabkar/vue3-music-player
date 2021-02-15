@@ -302,7 +302,7 @@
 
 
 <script>
-import { ref, reactive, computed } from "vue"
+import { ref, reactive } from "vue"
 import A1 from "@/music/A1.mp3"
 import A2 from "@/music/A2.mp3"
 import A3 from "@/music/A3.mp3"
